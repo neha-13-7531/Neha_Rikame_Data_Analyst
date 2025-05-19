@@ -76,17 +76,7 @@ I'm currently open to **Data Analyst roles**, internships, and collaborative pro
 
 ---
 
-> *“Data is the new oil, but insight is the combustion.”*
-✅ Next Steps
-Would you like me to:
 
-Create a README.md file to upload to your GitHub directly?
-
-Help set up your GitHub portfolio structure (repos for each project with proper descriptions)?
-
-Build a simple HTML portfolio website based on this?
-
-Let me know what you’d like next!
 
 
 
